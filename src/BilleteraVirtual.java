@@ -1,3 +1,4 @@
+import Pedido.Pedido;
 
 public class BilleteraVirtual extends MedioDePago {
     private double saldo;

@@ -1,3 +1,5 @@
+import Pedido.Pedido;
+
 public class TransferenciaBancaria  extends extends MedioDePago {
 
     private String cbu, alias;

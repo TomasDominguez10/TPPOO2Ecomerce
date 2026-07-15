@@ -1,3 +1,5 @@
+import Pedido.Pedido;
+
 public interface ApiBilletera {
     public interface APIBilletera {
 

@@ -1,3 +1,5 @@
+import Pedido.Pedido;
+
 import java.time.LocalDate;
 
 public class TarjetaDeCredito extends MedioDePago
