@@ -1,5 +1,7 @@
 package CriterioDeBusqueda;
 
+import Item.Item;
+
 import java.util.List;
 
 public interface CriterioDeBusqueda {

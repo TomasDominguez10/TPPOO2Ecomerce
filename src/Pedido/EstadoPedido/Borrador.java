@@ -1,6 +1,6 @@
 package Pedido.EstadoPedido;
 
-import CriterioDeBusqueda.Item;
+import Item.Item;
 import Pedido.Pedido;
 
 public class Borrador extends EstadoPedido {

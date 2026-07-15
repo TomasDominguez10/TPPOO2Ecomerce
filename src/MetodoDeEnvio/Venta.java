@@ -1,6 +1,6 @@
 package MetodoDeEnvio;
 
-import CriterioDeBusqueda.Item;
+import Item.Item;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -17,5 +17,6 @@ public class Venta {
     public boolean ocurrioEntre(LocalDate fechaInicio, LocalDate fechaFin) {
         return !this.getFecha().isBefore(fechaInicio) && !this.getFecha().isAfter(fechaFin);
     }
+
 
 }

@@ -1,5 +1,7 @@
 package CriterioDeBusqueda;
 
+import Item.Item;
+
 import java.util.function.Predicate;
 
 public class CriterioPrecioMaximo  extends CriterioDeBusqueda{

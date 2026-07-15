@@ -1,5 +1,7 @@
 package CriterioDeBusqueda;
 
+import Item.Item;
+
 import java.util.ArrayList;
 import java.util.List;
 
